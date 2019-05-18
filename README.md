@@ -39,3 +39,9 @@ Uzdevumi tiks vērtēti. Vērtēšana notiks pēc sekojošiem faktoriem 3 baļļ
 * Funkcionalitāte - cik daudz sintaktiskas un semantiskas kļūdas ir redzamas.
 * Vecuma koeficients - <rezultāts> * sqrt(<vecākā dalībnieka vecums> - <jaunākā dalībnieka vecums komandā>).
 * Neatkarīgā eksperta vērtējums.
+
+## Materiāli
+
+* Bēdīga seja - https://kids.clevercode.lv/games/vardu_bildes/sad.png
+* Priecīga seja - https://kids.clevercode.lv/games/vardu_bildes/happy.png
+* Konfekte - https://kids.clevercode.lv/games/vardu_bildes/candy.png
