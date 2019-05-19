@@ -35,7 +35,7 @@ Uzdevumi tiks vērtēti. Vērtēšana notiks pēc sekojošiem faktoriem 3 baļļ
 * Idejas oriģinalitāte.
 * Tehnoloģijas - uzsvars nav uz kvantitāti bet kvalitāti.
 * Lietotāja saskarnes ērtums.
-* Vecuma koeficients - <rezultāts> * sqrt(sqrt(max([lielākais vecums] - [komandas vecums], 1))).
+* Vecuma koeficients - [rezultāts] * sqrt(sqrt(max([lielākais vecums] - [komandas vecums], 1))).
 * Neatkarīgā eksperta vērtējums.
 
 ## Materiāli
