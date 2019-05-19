@@ -35,8 +35,6 @@ Uzdevumi tiks vērtēti. Vērtēšana notiks pēc sekojošiem faktoriem 3 baļļ
 * Idejas oriģinalitāte.
 * Tehnoloģijas - uzsvars nav uz kvantitāti bet kvalitāti.
 * Lietotāja saskarnes ērtums.
-* Koda kvalitāte - cik kods ir labi organizēts un saprotams.
-* Funkcionalitāte - cik daudz sintaktiskas un semantiskas kļūdas ir redzamas.
 * Vecuma koeficients - <rezultāts> * (1 + sqrt(<vecākā dalībnieka vecums> - <jaunākā dalībnieka vecums komandā>)).
 * Neatkarīgā eksperta vērtējums.
 
